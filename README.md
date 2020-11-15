@@ -1,4 +1,5 @@
 # 7.1-part_2
+# #vimaldaga #righteducation #educationredefine #rightmentor #worldrecordholder #linuxworld #makingindiafutureready #righeudcation #arthbylw
 step 1 . check how many disk connected using fdisk -l command
 
 ![1](https://user-images.githubusercontent.com/69908356/99189893-8d539500-2789-11eb-8cce-08e1fbe8d223.png)
